@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+main{
+    width: 200px;
+}
+.style-list{
+    padding-inline-start: 0px;
+}
+.style-line{
+    list-style: none;
+}
+.style-image{
+    width: 100px;
+}
